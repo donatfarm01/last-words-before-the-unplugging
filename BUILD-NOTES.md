@@ -41,7 +41,7 @@ outside the repository.
 ## Verification done locally
 
 The program was run locally and the output file was checked: it contains
-exactly the line above, it is 87 characters long, which is inside the
+exactly the line above, it is 83 characters long, which is inside the
 bounty limit of 1 to 200 characters, and it has no trailing newline. The
 kit check was also run from the unpacked kit against this repository, and
 its result is reported alongside this build.
